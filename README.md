@@ -58,7 +58,7 @@ Make sure the following are installed:
 - Git
 - Playwright
 
-Install Playwright browsers:
+
 
 ---
 
@@ -75,7 +75,7 @@ Tests run on:
 - Chrome (Chromium)
 - Microsoft Edge
 
-Configured in:
+
 
 ---
 
@@ -85,6 +85,8 @@ Selectors and flows were implemented considering dynamic UI elements on eBay pag
 The framework follows the **Page Object Model** for maintainability and reusability.
 
 ---
+## Run
+npx playwright test
 
 ## Author
 
